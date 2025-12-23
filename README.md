@@ -1,4 +1,4 @@
-# Be-RozgaariBot
+# Be-RozgaariBot 💼
 Hi, I am Be-RozgaariBot, a job recommendation chatbot. Ask me anything about job recommendation.
 ## 🚀 Features
 * **Real-time Interaction:** Fast response times using Google’s Gemini-1.5-Flash/Pro.
